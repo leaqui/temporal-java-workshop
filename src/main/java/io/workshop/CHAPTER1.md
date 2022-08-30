@@ -203,7 +203,7 @@ io.workshop.intro.GetFinalCount
     
 * [Implementation Constraints](https://docs.temporal.io/docs/java/workflows#workflow-implementation-constraints)
     * Dont' use mutable global state
-    * Don't ue explicit synchronization
+    * Don't use explicit synchronization
     * Static Fields
         * io.temporal.workflow.WorkflowLocal
         * io.temporal.workflow.WorkflowThreadLocal
